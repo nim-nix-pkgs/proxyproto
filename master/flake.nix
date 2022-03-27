@@ -11,6 +11,7 @@
   inputs.src-proxyproto-master.ref   = "refs/heads/master";
   inputs.src-proxyproto-master.owner = "ba0f3";
   inputs.src-proxyproto-master.repo  = "libproxy.nim";
+  inputs.src-proxyproto-master.dir   = "";
   inputs.src-proxyproto-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
