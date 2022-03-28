@@ -11,7 +11,6 @@
   inputs.src-proxyproto-0_1_1.ref   = "refs/tags/0.1.1";
   inputs.src-proxyproto-0_1_1.owner = "ba0f3";
   inputs.src-proxyproto-0_1_1.repo  = "libproxy.nim";
-  inputs.src-proxyproto-0_1_1.dir   = "";
   inputs.src-proxyproto-0_1_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
