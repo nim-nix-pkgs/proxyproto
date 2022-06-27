@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "0_1_0",
-        "lastModified": 1656283960,
-        "narHash": "sha256-TZLg7+KgwSeGnDY3pjpGOXrKj0MvnEn4XSLsLztFzDU=",
+        "lastModified": 1656298019,
+        "narHash": "sha256-Si6TRkAS7vpTTVS4VCJfdWegvCQPtwNF1SUJgg7FFYU=",
         "owner": "nim-nix-pkgs",
         "repo": "proxyproto",
-        "rev": "84f9489b2e6fb389e985206e5b93a970e7419da8",
+        "rev": "eaaae8b277d14c1a84e7590aec01a4d9fb9f2d5b",
         "type": "github"
       },
       "original": {
@@ -72,11 +72,11 @@
       },
       "locked": {
         "dir": "0_1_1",
-        "lastModified": 1656283960,
-        "narHash": "sha256-TZLg7+KgwSeGnDY3pjpGOXrKj0MvnEn4XSLsLztFzDU=",
+        "lastModified": 1656298019,
+        "narHash": "sha256-Si6TRkAS7vpTTVS4VCJfdWegvCQPtwNF1SUJgg7FFYU=",
         "owner": "nim-nix-pkgs",
         "repo": "proxyproto",
-        "rev": "84f9489b2e6fb389e985206e5b93a970e7419da8",
+        "rev": "eaaae8b277d14c1a84e7590aec01a4d9fb9f2d5b",
         "type": "github"
       },
       "original": {
@@ -99,11 +99,11 @@
       },
       "locked": {
         "dir": "0_1_2",
-        "lastModified": 1656283960,
-        "narHash": "sha256-TZLg7+KgwSeGnDY3pjpGOXrKj0MvnEn4XSLsLztFzDU=",
+        "lastModified": 1656298019,
+        "narHash": "sha256-Si6TRkAS7vpTTVS4VCJfdWegvCQPtwNF1SUJgg7FFYU=",
         "owner": "nim-nix-pkgs",
         "repo": "proxyproto",
-        "rev": "84f9489b2e6fb389e985206e5b93a970e7419da8",
+        "rev": "eaaae8b277d14c1a84e7590aec01a4d9fb9f2d5b",
         "type": "github"
       },
       "original": {
@@ -126,11 +126,11 @@
       },
       "locked": {
         "dir": "0_1_3",
-        "lastModified": 1656283960,
-        "narHash": "sha256-TZLg7+KgwSeGnDY3pjpGOXrKj0MvnEn4XSLsLztFzDU=",
+        "lastModified": 1656298019,
+        "narHash": "sha256-Si6TRkAS7vpTTVS4VCJfdWegvCQPtwNF1SUJgg7FFYU=",
         "owner": "nim-nix-pkgs",
         "repo": "proxyproto",
-        "rev": "84f9489b2e6fb389e985206e5b93a970e7419da8",
+        "rev": "eaaae8b277d14c1a84e7590aec01a4d9fb9f2d5b",
         "type": "github"
       },
       "original": {
@@ -153,11 +153,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656283960,
-        "narHash": "sha256-TZLg7+KgwSeGnDY3pjpGOXrKj0MvnEn4XSLsLztFzDU=",
+        "lastModified": 1656298019,
+        "narHash": "sha256-Si6TRkAS7vpTTVS4VCJfdWegvCQPtwNF1SUJgg7FFYU=",
         "owner": "nim-nix-pkgs",
         "repo": "proxyproto",
-        "rev": "84f9489b2e6fb389e985206e5b93a970e7419da8",
+        "rev": "eaaae8b277d14c1a84e7590aec01a4d9fb9f2d5b",
         "type": "github"
       },
       "original": {
@@ -250,11 +250,11 @@
     "src-proxyproto-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1633049501,
-        "narHash": "sha256-oDXJKkk9FjrY69DOj06PEb5pF1lqFCftUzgYuSMotn4=",
+        "lastModified": 1655186420,
+        "narHash": "sha256-dMAN1Fx3F6j/plaXYR7MqR4BXAtPEAqKIGw4vj+Zm6s=",
         "owner": "ba0f3",
         "repo": "libproxy.nim",
-        "rev": "8cd25e554d06f613e5bfa244a71a8cbd936c168c",
+        "rev": "4d201311abec0b62edae73be811a759e8fccbfa6",
         "type": "github"
       },
       "original": {
