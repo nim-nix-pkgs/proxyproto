@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-proxyproto-master": "src-proxyproto-master"
+        "src-proxyproto-0_1_3": "src-proxyproto-0_1_3"
       }
     },
-    "src-proxyproto-master": {
+    "src-proxyproto-0_1_3": {
       "flake": false,
       "locked": {
         "lastModified": 1655186420,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "ba0f3",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.1.3",
         "repo": "libproxy.nim",
         "type": "github"
       }
