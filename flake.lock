@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "0_1_0",
-        "lastModified": 1658032146,
-        "narHash": "sha256-jjBJ9O83IEaj1mOxSStl8/neMPgmAFNFJ37CKznM6Ng=",
+        "lastModified": 1658201790,
+        "narHash": "sha256-s3FA7ll2rehs/cYoYJznSbR6W2TGERtDvI1cKKC04t4=",
         "owner": "nim-nix-pkgs",
         "repo": "proxyproto",
-        "rev": "a712d8e6477c0bfe13d825d98bf1a0eb2cb1760d",
+        "rev": "d79f6416a6da41ba583d2d42d54ff3003420ddce",
         "type": "github"
       },
       "original": {
@@ -72,11 +72,11 @@
       },
       "locked": {
         "dir": "0_1_1",
-        "lastModified": 1658032146,
-        "narHash": "sha256-jjBJ9O83IEaj1mOxSStl8/neMPgmAFNFJ37CKznM6Ng=",
+        "lastModified": 1658201790,
+        "narHash": "sha256-s3FA7ll2rehs/cYoYJznSbR6W2TGERtDvI1cKKC04t4=",
         "owner": "nim-nix-pkgs",
         "repo": "proxyproto",
-        "rev": "a712d8e6477c0bfe13d825d98bf1a0eb2cb1760d",
+        "rev": "d79f6416a6da41ba583d2d42d54ff3003420ddce",
         "type": "github"
       },
       "original": {
@@ -99,11 +99,11 @@
       },
       "locked": {
         "dir": "0_1_2",
-        "lastModified": 1658032146,
-        "narHash": "sha256-jjBJ9O83IEaj1mOxSStl8/neMPgmAFNFJ37CKznM6Ng=",
+        "lastModified": 1658201790,
+        "narHash": "sha256-s3FA7ll2rehs/cYoYJznSbR6W2TGERtDvI1cKKC04t4=",
         "owner": "nim-nix-pkgs",
         "repo": "proxyproto",
-        "rev": "a712d8e6477c0bfe13d825d98bf1a0eb2cb1760d",
+        "rev": "d79f6416a6da41ba583d2d42d54ff3003420ddce",
         "type": "github"
       },
       "original": {
@@ -126,11 +126,11 @@
       },
       "locked": {
         "dir": "0_1_3",
-        "lastModified": 1658032146,
-        "narHash": "sha256-jjBJ9O83IEaj1mOxSStl8/neMPgmAFNFJ37CKznM6Ng=",
+        "lastModified": 1658201790,
+        "narHash": "sha256-s3FA7ll2rehs/cYoYJznSbR6W2TGERtDvI1cKKC04t4=",
         "owner": "nim-nix-pkgs",
         "repo": "proxyproto",
-        "rev": "a712d8e6477c0bfe13d825d98bf1a0eb2cb1760d",
+        "rev": "d79f6416a6da41ba583d2d42d54ff3003420ddce",
         "type": "github"
       },
       "original": {
@@ -153,11 +153,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658032146,
-        "narHash": "sha256-jjBJ9O83IEaj1mOxSStl8/neMPgmAFNFJ37CKznM6Ng=",
+        "lastModified": 1658201790,
+        "narHash": "sha256-s3FA7ll2rehs/cYoYJznSbR6W2TGERtDvI1cKKC04t4=",
         "owner": "nim-nix-pkgs",
         "repo": "proxyproto",
-        "rev": "a712d8e6477c0bfe13d825d98bf1a0eb2cb1760d",
+        "rev": "d79f6416a6da41ba583d2d42d54ff3003420ddce",
         "type": "github"
       },
       "original": {
